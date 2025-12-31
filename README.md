@@ -17,11 +17,8 @@
 
  **<h3 align="left">A Professional having 2+ years of IT experience in software testing with Manual and automation using Selenium Webdriver and Katalon Studio. Also, performed API and Game testing for Mobile and Web applications.</h3>**
 
-**<h3 align="left">Rapid Fire</h3>**
+**<h3 align="left">Skills</h3>**
 
-- 💬 Ask me about: **💡 Selenium, Java, RESTful APIs, Jira, TestRail, Katlon Studio**
+- 💻 Skills: **💡 Manual Testing, Game testing, API Testing, Automation Testing, Java, RESTful APIs, Jira, TestRail, Katlon Studio, Performace Testing, Mobile App Testing, Jmeter, Charles Proxy, iMazing**
 
- **<h3 align="left">Skills</h3>**
-
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" alt="Java" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="28" alt="Jenkins" style="margin-right: 4px"></div>
 
